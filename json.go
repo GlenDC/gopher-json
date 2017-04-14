@@ -1,4 +1,4 @@
-package json // import "layeh.com/gopher-json"
+package json
 
 import (
 	"github.com/yuin/gopher-lua"
